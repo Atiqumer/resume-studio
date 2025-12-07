@@ -183,5 +183,3 @@ Modify:
 
 Pull requests are welcome.
 You can contribute by adding templates, improving UI, optimizing database structure, or enhancing functionality.
-
----
